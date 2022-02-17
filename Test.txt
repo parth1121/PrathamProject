@@ -1,3 +1,4 @@
-class Test {
-
+clasfkmdfk Test {
+}
+class Xyz{
 }
